@@ -1,2 +1,2 @@
 # CPPBasic
-Use this repository to get the code I wrote in my CPP Basic youtube tutorial videos
+Usa questa raccolta per ottenere i file che creo nei miei video!
